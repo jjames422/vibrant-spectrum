@@ -1,8 +1,37 @@
 {
-  "name": "nebula-nightfall",
-  "displayName": "Nebula Nightfall",
-  "description": "Nebula Nightfall Color Theme!",
+  "name": "vibrant-spectrum",
+  "displayName": "Vibrant Spectrum",
+  "description": "Vibrant Spectrum Color Theme!",
   "version": "0.0.1",
+  "publisher": "sushipirate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjames422/vibrant-spectrum.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "VS Code theme",
+    "dark theme",
+    "color palette",
+    "customizable",
+    "syntax highlighting",
+    "UI elements",
+    "activity bar",
+    "side bar",
+    "status bar",
+    "code readability",
+    "programming languages",
+    "vibrant colors",
+    "code editor",
+    "syntax colors",
+    "code styling",
+    "developer tools",
+    "design",
+    "aesthetics",
+    "customizable theme",
+    "coding experience"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
