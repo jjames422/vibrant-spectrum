@@ -27,4 +27,4 @@ If you have any feedback, suggestions, or issues related to the Vibrant Spectrum
 
 ## License
 
-This theme is released under the [MIT License](LICENSE).
+This theme is released under the [MIT License](LICENSE.md).
