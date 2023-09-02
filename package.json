@@ -41,9 +41,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nebula Nightfall Dark",
+        "label": "Vibrant Spectrum Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nebula Nightfall Dark-color-theme.json"
+        "path": "./themes/Vibrant Spectrum Dark-color-theme.json"
       }
     ]
   }
